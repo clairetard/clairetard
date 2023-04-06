@@ -1,3 +1,7 @@
+
+<p align="center">
+<img align="center" src=https://cdn.discordapp.com/attachments/1038090511594037248/1093554850836533348/hihi.png>
+</p>
 <h1 align="center">Helloooooo</h1>
 <h3 align="center">I hate programming but I found out that I'm decent at it so might as well eh...</h3>
 
